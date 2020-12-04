@@ -87,7 +87,7 @@ body{
     width: 50%;
 }
 .background_black{
-    background-color: rgba(00, 00, 00, 1);
+    background-color: peru;
 }
 .index_up{
     z-index: 99999999999999999999999999;
@@ -111,7 +111,7 @@ body{
     bottom: 30%
 }
 .btn-design{
-    border:1px solid white;
+    border:1px solid gainsboro;
     width: 150px;
     height: 40px;
     line-height: 40px;
